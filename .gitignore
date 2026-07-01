@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Obsidian per-user state (keep this out of the shared template)
+.obsidian/workspace*
+.obsidian/cache
+.trash/
+
+# Editor noise
+.vscode/
+*.swp
